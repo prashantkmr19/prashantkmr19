@@ -2,6 +2,7 @@ Solution oriented and motivated professional having 56 months of experience in I
 
 
 WORK EXPERIENCE
+
 Solution Developer
 Red Orange Smart Solution
 Extract sensor data from PLC's using python. Using MySQL to create data log and uses framework
